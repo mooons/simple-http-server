@@ -822,6 +822,7 @@ impl MainHandler {
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
   <style> a {{ text-decoration:none; }} </style>
+  <link rel="icon" href="data:;base64,iVBORw0KGgo=">
 </head>
 <body>
   {upload_form}
